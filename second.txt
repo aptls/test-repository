@@ -1,3 +1,5 @@
 This is the second file.
 
 more text
+
+add for rc1.
